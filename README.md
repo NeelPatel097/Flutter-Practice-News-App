@@ -1,6 +1,6 @@
 # news_app
 
-Flutter practice of fetching json
+Flutter practice of fetching news from theverge.com
 
 ## Getting Started
 
